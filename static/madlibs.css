@@ -1,0 +1,16 @@
+h1 {
+    font-family: Arial;
+    color: red;
+}
+
+body {
+    font-family: Courier;
+    background-color: #aeeaea;
+}
+
+div{
+    text-align: left;
+    border: 2px solid black;
+    margin: 3em;
+    padding: 3em;
+}

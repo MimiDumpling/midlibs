@@ -27,7 +27,7 @@ def say_hello():
     """Say hello to user."""
 
     return render_template("hello.html")
-
+    
 
 @app.route('/greet')
 def greet_person():
